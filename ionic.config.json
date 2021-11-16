@@ -1,0 +1,7 @@
+{
+    "name": "vatss",
+    "integrations": {
+        "capacitor": {}
+    },
+    "type": "react"
+}

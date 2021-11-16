@@ -1,0 +1,8 @@
+{
+	"appId": "io.ionic.vatss",
+	"appName": "vatss",
+	"bundledWebRuntime": false,
+	"npmClient": "npm",
+	"webDir": "build",
+	"cordova": {}
+}
